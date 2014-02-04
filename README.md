@@ -3,6 +3,10 @@ Equerre - image triangularisation
 
 Random triangularisation of image in php
 
+TO DO
+-----
+* Change API to use base64 image upload and siplify the use
+* Do color option
 
 How to use
 ----------
@@ -23,7 +27,11 @@ The first time you use the API, you have to upload the image. The received data 
 
 *$_POST*
 
-    [imageParam] => {"numberDetail":4,"numberColor":5,"stretch":20} 
+    [imageParam] => 
+        {
+            "numberDetail":4,
+            "stretch":20
+        } 
 
 You can use the jQuery HTML5 FileUpload Plugin to call the API using: 
 
@@ -46,10 +54,9 @@ If the image has already been uploaded, you just have to give the image path and
 The data should be formating like
 
     "imageParam" : {
-    	"numberDetail" :  Main.nbrDetail.getValue(),
-    	"numberColor" : Main.nbrColor.getValue(),
-    	"stretch" : Main.stretch.getValue(),
-    	"imgPath" : Main.imgPath
+    	"numberDetail" :  5,
+    	"stretch" : 20,
+    	"imgPath" : "../uploads/2014/02/452145.jpg"
     }
 
 
