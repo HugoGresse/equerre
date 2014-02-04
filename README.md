@@ -3,10 +3,12 @@ Equerre - image triangularisation
 
 Random triangularisation of image in php
 
+![ImageExample](http://api.equer.re/uploads/2014/equerre_eqquerise.png)
+
 TO DO
 -----
-* Change API to use base64 image upload and siplify the use
-* Do color option
+* Change API to use base64 image upload and simplify the use
+* Color option
 
 How to use
 ----------
