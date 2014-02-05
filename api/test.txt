@@ -1,0 +1,1400 @@
+ArrayConstruct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 6
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 15
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 10
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 15
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 15
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 15
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 15
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 15
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 15
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 12
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 12
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 12
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 12
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 12
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 12
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 12
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 12
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 12
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 12
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 12
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
+Construct MyAPI 
+Array
+(
+    [dichotomieNumb] => 5
+    [stretch] => 10
+    [numberColor] => 10
+)
+ -----  
+
+
