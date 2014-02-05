@@ -13,8 +13,10 @@ TO DO
 How to use
 ----------
 
+
 ####First Call
 The API url is [http://api.equer.re/?image](http://api.equer.re/?image)
+
 The first time you use the API, you have to upload the image. The received data should be as follow :
 
 *$_FILES*
@@ -52,6 +54,7 @@ You can use the jQuery HTML5 FileUpload Plugin to call the API using:
         }
     )};
 
+
 ####Other call
 If the image has already been uploaded, you just have to give the image path and the parameters. The image path is `result['imgPath'] in last code
 The data should be formating like
@@ -64,6 +67,7 @@ The data should be formating like
 
 ####Last Request
 Last request on the api is saved in [this file](http://api.equer.re/api/test.txt)
+
 
 ### Result JSON
 Each request result in a JSON formated as follow
