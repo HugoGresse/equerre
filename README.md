@@ -61,6 +61,8 @@ The data should be formating like
     	"imgPath" : "../uploads/2014/02/452145.jpg"
     }
 
+####Last Request
+Last request on the api is saved in [this file](http://api.equer.re/api/test.txt)
 
 ### Result JSON
 Each request result in a JSON formated as follow
