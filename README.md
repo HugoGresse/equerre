@@ -14,6 +14,7 @@ How to use
 ----------
 
 ####First Call
+The API url is [http://api.equer.re/?image](http://api.equer.re/?image)
 The first time you use the API, you have to upload the image. The received data should be as follow :
 
 *$_FILES*
