@@ -79,14 +79,6 @@ class EquerreManager {
 		// }
 		
 		$this->imgPath = $fullpath;
-
-		$headers ='From: equerre@xjet.fr'."\n";
-		$headers .='Reply-To: hugo.gresse@gmail.com'."\n";
-		$headers .= 'Content-type: text/html; '. "\n";
-		$headers .='Content-Transfer-Encoding: 8bit';
-		// message
-		$message = ' <html> <head></head><body> <img width="500px" src="http://api.equer.re/'.substr($fullpath, 3).' " alt="image name"/> <br><br><br> http://api.equer.re/'.substr($fullpath, 3).' ---- '.date('H:i:s d/m/Y') . ' </body> </html>';
-		mail('hugo.gresse@gmail.com', '[Equerre] New Image Uploaded ' . $fullpath, $message, $headers); 
 		
 		return $fullpath;
 	}
